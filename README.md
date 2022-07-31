@@ -1,4 +1,4 @@
 # Clicker-game-TIC80
 <div>
-    123
+    Clicker game written in TIC 80
  </div>
